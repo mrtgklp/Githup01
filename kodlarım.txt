@@ -11,3 +11,5 @@ Tek bir dosyayı iptal eder          git restore --staged
 git restore .
 Tüm dosyaları iptal eder
 
+basarılı calısmalar
+
