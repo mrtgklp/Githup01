@@ -2,3 +2,12 @@ v1 kodlarım...
 v2 calısmalar
 v3 calısmasını yaptım....
 
+Working space                          Stage Area
+git restore [dosya]			git restore --staged [dosya]
+                                    Tek bir dosyayı iptal eder	
+Tek bir dosyayı iptal eder          git restore --staged
+                                    Tüm dosyaları iptal eder
+
+git restore .
+Tüm dosyaları iptal eder
+
